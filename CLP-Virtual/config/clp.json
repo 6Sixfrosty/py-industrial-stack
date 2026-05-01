@@ -1,0 +1,38 @@
+{
+  "IO": {
+    "%IX0.0": false,
+    "%IX0.1": false,
+    "%IX0.2": false,
+    "%IX0.3": false,
+    "%QX0.0": false,
+    "%QX0.1": false,
+    "%QX0.2": false,
+    "%QX0.3": false,
+    "%IW0": 0.0,
+    "%IW1": 0.0,
+    "%IW2": 0,
+    "%IW3": 0.0,
+    "%IW4": 0.0,
+    "%MW0": 0,
+    "%MW1": 0.0,
+    "%MW2": 0.0
+  },
+  "DB": {
+    "btn-ligar":             "%IX0.0",
+    "btn-emergencia":        "%IX0.1",
+    "sensor-presenca-massa": "%IX0.2",
+    "porta-forno":           "%IX0.3",
+    "resistencia-forno":     "%QX0.0",
+    "motor-esteira":         "%QX0.1",
+    "alarme":                "%QX0.2",
+    "luz-status":            "%QX0.3",
+    "temp-forno":            "%IW0",
+    "temp-massa":            "%IW1",
+    "velocidade-esteira":    "%IW2",
+    "pressao-prensa":        "%IW3",
+    "umidade-massa":         "%IW4",
+    "contador-biscoitos":    "%MW0",
+    "tempo-forno":           "%MW1",
+    "tempo-turno":           "%MW2"
+  }
+}
