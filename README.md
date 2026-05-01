@@ -8,6 +8,7 @@ Projeto que simula em Python uma arquitetura industrial real de edge computing �
 
 ## Arquitetura
 
+```
 ┌──────────────────────────────────────────────┐
 │           CHÃO DE FÁBRICA / OT SIMULADO      │
 │                                              │
@@ -52,7 +53,7 @@ Projeto que simula em Python uma arquitetura industrial real de edge computing �
 │  - Visualização local para os operadores     │
 │  - Roda na edge, sem depender de nuvem       │
 └──────────────────────────────────────────────┘
-
+```
 
 ## Stack
 
